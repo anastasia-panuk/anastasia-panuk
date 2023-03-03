@@ -9,3 +9,6 @@
 
 ### Мой стек технологий:
 HTML5, CSS3, JS (ES6), React.js, Webpack, Node.js, express.js, MongoDB, Figma, Git
+
+### Мои контакты
+<a href="https://t.me/anapanana"><img src="https://img2.freepng.ru/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg"/></a>
