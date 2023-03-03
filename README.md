@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Я Настя:wave:</h1>
-<h3 align="center">Пытаюсь во front-end:wink:</h3>
+<h3 align="center">Пытаюсь во frontend:wink:</h3>
 
 :owl: Хочу стать хорошим разработчиком </br>
 :hatched_chick: Ищу свою первую работу во front-end'e </br>
