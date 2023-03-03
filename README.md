@@ -11,5 +11,5 @@
 HTML5, CSS3, JS (ES6), React.js, Webpack, Node.js, express.js, MongoDB, Figma, Git
 
 ### Мои контакты
-<a href="https://t.me/anapanana">!width="30px"[kisspng-telegram-encapsulated-postscript-transfer-5b17060586a686 1271014115282355255515](https://user-images.githubusercontent.com/79666895/222642218-c41d547e-8193-4a10-8f14-71353d750821.png)</a>
+<a href="https://t.me/anapanana">width="30px" ![kisspng-telegram-encapsulated-postscript-transfer-5b17060586a686 1271014115282355255515](https://user-images.githubusercontent.com/79666895/222642218-c41d547e-8193-4a10-8f14-71353d750821.png)</a>
 
