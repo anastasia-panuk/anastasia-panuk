@@ -2,7 +2,7 @@
 <h3 align="center">Пытаюсь во frontend:wink:</h3>
 
 :owl: Хочу стать хорошим разработчиком </br>
-:hatched_chick: Ищу свою первую работу во front-end'e </br>
+:hatched_chick: Ищу свою первую работу во frontend'e </br>
 :computer: Имею базовые навыки HTML5, CSS3, JS (ES6), React.js </br>
 :book: Расширяю свои знания - изучаю TypeScript и препроцессоры, в ближайших планах - Vue.js
 
